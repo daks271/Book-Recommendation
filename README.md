@@ -4,7 +4,8 @@ Extract information of Books of various Genre’s from a Website using Web scrap
 Use the information from the Abstract to build a model.
 Build a Recommendation System that recommends books based upon the abstract written by the user.
 
-#Project Flow
+##PROJECT FLOW
+
 Data Extraction :
 Data regarding books of different genre is to be extracted in .csv format from websites using web scraping
 
